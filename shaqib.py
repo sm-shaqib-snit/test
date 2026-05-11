@@ -1,5 +1,11 @@
-printf('Hello')
+print("shaqib")
+print("shaqib")
+print("shaqib")
+print("shaqib")
+print("shaqib")
 
+print("shaqib")
+print("shaqib")
 
-for int (i=0):
-    print(i++)
+print("shaqib")
+
